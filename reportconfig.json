@@ -1,0 +1,17 @@
+{
+      "session_details" : {
+      "Owner": "Naveen S",
+      "application_name": "Bird Bank",
+      "application_version": "V1",
+      "platform": "Windows11",
+      "additional_information":"Browser - Chrome 118.0.5993.118"
+  },
+
+  "report_options" :{
+      "theme": "Default",
+      "title": "Test Report",
+      "logo": "C:\\Users\\Me\\PycharmProjects\\birdbankautomation\\logo.jpg",
+      "show_reference": "True",
+      "zip_if_screenshot": "True"
+  }
+}
